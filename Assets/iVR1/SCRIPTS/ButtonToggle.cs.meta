@@ -1,0 +1,44 @@
+fileFormatVersion: 2
+guid: 85bf46eaf2ffc594287fb855a6a818bc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - progressPanel: {fileID: 494222195103038982, guid: ac090e701dc75354b82eb0e11895dccc,
+      type: 3}
+  - questionPanel: {instanceID: 0}
+  - convoPanel: {instanceID: 0}
+  - locationPanel: {instanceID: 0}
+  - settingsPanel: {fileID: 851423206007432884, guid: 53941cb45bde19a4ba311c162446d049,
+      type: 3}
+  - journalSubPanel: {instanceID: 0}
+  - gallerySubPanel: {instanceID: 0}
+  - glossarySubPanel: {instanceID: 0}
+  - progressIcon: {instanceID: 0}
+  - questionIcon: {instanceID: 0}
+  - locationIcon: {instanceID: 0}
+  - settingsIcon: {instanceID: 0}
+  - convoIcon: {instanceID: 0}
+  - masterButton: {instanceID: 0}
+  - gameButtons: {instanceID: 0}
+  - fakeMasterButton: {instanceID: 0}
+  - progressButton: {instanceID: 0}
+  - questionButton: {instanceID: 0}
+  - locationButton: {instanceID: 0}
+  - settingsButton: {instanceID: 0}
+  - convoButton: {instanceID: 0}
+  - progressBttn: {instanceID: 0}
+  - locationBttn: {instanceID: 0}
+  - settingsBttn: {instanceID: 0}
+  - convoBttn: {instanceID: 0}
+  - masterButtonTooltip: {instanceID: 0}
+  - progressButtonTooltip: {instanceID: 0}
+  - locationButtonTooltip: {instanceID: 0}
+  - settingsButtonTooltip: {instanceID: 0}
+  - convoButtonTooltip: {instanceID: 0}
+  - questionButtonTooltip: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
